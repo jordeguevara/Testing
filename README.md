@@ -20,7 +20,7 @@ d) chai
 
 <b>Manaul Testing</b>  - Postman 
 
-<i>Upload manual test to Postman and work with Niko to share with the rest on the team </i>
+<i>Upload manual test to Postman and work with Niko to share with the rest of the team </i>
 
 
 ## Styling Guide 
