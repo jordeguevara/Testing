@@ -79,3 +79,13 @@ This will show detailed view of test coverage
 
 We aim to get at least <b>80%</b> test coverage for features that you are working on 
 
+### Links to Documentation 
+
+[SuperTest](https://www.npmjs.com/package/supertest)
+
+[Mocha](https://mochajs.org/)
+
+[Chai](https://www.chaijs.com/api/bdd/)
+
+[Sinon](https://sinonjs.org/releases/latest/)
+
