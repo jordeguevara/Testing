@@ -50,10 +50,6 @@ Dont use version number in the name of the endpoint, unless no other choice
 
 We should group similar endpoints together 
 
-### ES-LINT - TBD
-There is currently a preconfigured ESLint File in MBE, so all you have to do is download an ESLinter and turn off any other extensions that may override it 
-
-
 ### Types of Testing
 System Integration - end to end test of the architecture  
 
@@ -65,6 +61,8 @@ Unit test - <i> automated tests that ensure that a section of an application mee
 * calander math
 * complicated logic 
 
+### ES-LINT - TBD
+<i>There is currently a preconfigured ESLint File in MBE, so all you have to do is download an ESLinter and turn off any other extensions that may override it </i>
 ## Test Coverage 
 
 To see a detail report of test coverage run: 
