@@ -29,7 +29,7 @@ Integratation Test
 
 naming convention - name the it as myfile_test ie (index_unit_test.js) 
 
-test/controllers/policy/index_test.js -Integration Test
+test/controllers/policy/index_test.js 
 
 
 Unit Testing
