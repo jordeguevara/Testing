@@ -47,7 +47,18 @@ Unit test
     - complicated logic - self documenting 
 
 
+### Test Coverage 
 
+To see a detail report of test coverage run: 
+```
+npm run test-with-coverage
+```
+
+in root dir, there will be a folder called coverage, look for an index.html and open it with the browser
+
+This will show detailed view of test coverage 
+
+We aim to get at least <b>80%</b> coverage for features that you are working on 
 //explict names for the the api end routes
 // document
 // dont used version on end point
