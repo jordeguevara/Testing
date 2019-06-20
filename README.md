@@ -47,7 +47,7 @@ Intergnal integration test - <i> tests the behavior of several functions interac
 
 Unit test - <i> automated tests that ensure that a section of an application meets its design and behaves as intended <i>
 * business logic 
-* calander math
+* calendar math
 * complicated logic 
 
 ### Tips 
