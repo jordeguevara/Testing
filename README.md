@@ -53,7 +53,7 @@ Unit test - <i> automated tests that ensure that a section of an application mee
 ### Tips 
 We should explict names for the the api end routes (ex '/myRoute')
 
-Develop great documentettion for our APIs, can be automated with postman testing suite 
+Develop great documentation for our APIs, can be automated with postman testing suite 
 
 Dont use version number in the name of the endpoint, unless no other choice 
 
