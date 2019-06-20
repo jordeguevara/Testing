@@ -60,7 +60,6 @@ System Integration - e2e Test
 Intergnal integration test - tests the behavior of several functions interacting together 
 
 Unit test 
-
     - business logic 
     - calander math
     - complicated logic - self documenting 
