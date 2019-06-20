@@ -27,13 +27,14 @@ d) chai
 
 Integratation Test 
 
-naming convention - postfix with unit_test ie (businessLogic_unit_test.js) 
+naming convention - name the it as myfile_test ie (index_unit_test.js) 
+
 test/controllers/policy/index_test.js -Integration Test
 
 
 Unit Testing
 
-naming convention - name the it as myfile_test ie (index_unit_test.js) 
+naming convention - postfix with unit_test ie (businessLogic_unit_test.js) 
 
 Add any custom objects in the fixture directory (test/fixtures)
 
