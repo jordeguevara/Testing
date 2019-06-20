@@ -7,7 +7,7 @@ a) super-test
 
 b) sinon 
  
- - used to check behavior of different functions with spies,stubs, and mocks
+ - used to check the behavior of different functions with spies, stubs, and mocks
 
 c) mocha 
 
@@ -15,7 +15,7 @@ c) mocha
 
 d) chai 
 
-- allows to us to utilize semantic, declartive methods to make testing more readable 
+- allows us to utilize semantic, declarative methods to make testing more readable 
 
 
 <b>Manaul Testing</b>  - Postman 
@@ -24,12 +24,14 @@ d) chai
 
 
 ## Styling Guide 
-Unit Testing
-
-naming convention - name the it as unit_test ie (businessLogic_unit_test.js) 
-test/controllers/policy/index_test.js -Integration Test
 
 Integratation Test 
+
+naming convention - postfix with unit_test ie (businessLogic_unit_test.js) 
+test/controllers/policy/index_test.js -Integration Test
+
+
+Unit Testing
 
 naming convention - name the it as myfile_test ie (index_unit_test.js) 
 
