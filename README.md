@@ -29,7 +29,7 @@ Postman
 Unit Testing
 
 naming convention - name the it as unit_test ie (businessLogic_unit_test.js) 
-test/controllers/policy/index_test.js - Integration Test
+test/controllers/policy/index_test.js -Integration Test
 
 Integratation Test 
 
@@ -39,16 +39,6 @@ Add any custom objects in the fixture directory (test/fixtures)
 
 ### Workflow 
 
-
-
-### Tips 
-we should explict names for the the api end routes (ex '/myRoute')
-
-Develop great documentettion for our APIs, can be automated with postman testing suite 
-
-Dont use version number in the name of the endpoint, unless no other choice 
-
-We should group similar endpoints together 
 
 ### Types of Testing
 System Integration - end to end test of the architecture  
@@ -60,6 +50,15 @@ Unit test - <i> automated tests that ensure that a section of an application mee
 * business logic 
 * calander math
 * complicated logic 
+
+### Tips 
+we should explict names for the the api end routes (ex '/myRoute')
+
+Develop great documentettion for our APIs, can be automated with postman testing suite 
+
+Dont use version number in the name of the endpoint, unless no other choice 
+
+We should group similar endpoints together 
 
 ### ES-LINT - TBD
 <i>There is currently a preconfigured ESLint File in MBE, so all you have to do is download an ESLinter and turn off any other extensions that may override it </i>
