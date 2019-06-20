@@ -35,10 +35,22 @@ Integratation Test
 
 naming convention - name the it as myfile_test ie (index_unit_test.js) 
 
-Workflow 
+Add any custom objects in the fixture directory (test/fixtures)
 
-ES-LINT - TBD
+### Workflow 
 
+
+
+### Tips 
+we should explict names for the the api end routes (ex '/myRoute')
+
+Develop great documentettion for our APIs, can be automated with postman testing suite 
+
+Dont use version number in the name of the endpoint, unless no other choice 
+
+We should group similar endpoints together 
+
+### ES-LINT - TBD
 There is currently a preconfigured ESLint File in MBE, so all you have to do is download an ESLinter and turn off any other extensions that may override it 
 
 
@@ -66,10 +78,4 @@ in root dir, there will be a folder called coverage, look for an index.html and 
 This will show detailed view of test coverage 
 
 We aim to get at least <b>80%</b> coverage for features that you are working on 
-//explict names for the the api end routes
-// document
-// dont used version on end point
 
-// end points should be grouped together if similar 
-
-// Fixture for responses and errors 
