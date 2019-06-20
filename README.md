@@ -77,5 +77,5 @@ in root dir, there will be a folder called coverage, look for an index.html and 
 
 This will show detailed view of test coverage 
 
-We aim to get at least <b>80%</b> coverage for features that you are working on 
+We aim to get at least <b>80%</b> test coverage for features that you are working on 
 
