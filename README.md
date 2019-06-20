@@ -11,7 +11,7 @@ b) sinon
 
 c) mocha 
 
--allows you to a layer of abstraction over vanilla node.js assertions 
+- allows you to a layer of abstraction over vanilla node.js assertions 
 
 d) chai 
 
