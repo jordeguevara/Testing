@@ -55,11 +55,11 @@ There is currently a preconfigured ESLint File in MBE, so all you have to do is 
 
 
 ### Types of Testing
-System Integration - e2e Test 
+System Integration - end to end test of the architecture  
 
-Intergnal integration test - tests the behavior of several functions interacting together 
+Intergnal integration test - <i> tests the behavior of several functions interacting together </i>
 
-Unit test: automated tests that ensure that a section of an application meets its design and behaves as intended
+Unit test - <i> automated tests that ensure that a section of an application meets its design and behaves as intended <i>
 
 * business logic 
 * calander math
