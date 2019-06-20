@@ -1,14 +1,21 @@
-# Testing
+### Testing Guide
 
-### Current Testing Tools 
- a) super-test
+## Current Testing Tools 
+a) super-test 
+
+- used for testing behavior of controllers, typically for integration testing
 
 b) sinon 
+ 
+ - used to check behavior of different functions with spies,stubs, and mocks
 
 c) mocha 
 
+- testing framework used by node.js, allows you to a layer of abstraction over vanilla node.js assertions 
+
 d) chai 
 
+- allows to us to utilize semantic, declartive methods to make testing more readable 
 
 
 Manaul Testing
@@ -18,7 +25,7 @@ Postman
 <i>Bring up at monthly meeting/ or set up quick meeting hit up niko for postman </i>
 
 
-### Styling Guide 
+## Styling Guide 
 Unit Testing
 
 naming convention - name the it as unit_test ie (businessLogic_unit_test.js) 
@@ -47,7 +54,7 @@ Unit test
     - complicated logic - self documenting 
 
 
-### Test Coverage 
+## Test Coverage 
 
 To see a detail report of test coverage run: 
 ```
