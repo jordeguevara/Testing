@@ -20,7 +20,7 @@ d) chai
 
 <b>Manaul Testing</b>  - Postman 
 
-<i>Bring up at monthly meeting/ or set up quick meeting hit up niko for postman </i>
+<i>Upload manual test to Postman and work with Niko to share with the rest on the team </i>
 
 
 ## Styling Guide 
