@@ -18,9 +18,7 @@ d) chai
 - allows to us to utilize semantic, declartive methods to make testing more readable 
 
 
-Manaul Testing
-
-Postman 
+<b>Manaul Testing</b>  - Postman 
 
 <i>Bring up at monthly meeting/ or set up quick meeting hit up niko for postman </i>
 
@@ -46,13 +44,12 @@ System Integration - end to end test of the architecture
 Intergnal integration test - <i> tests the behavior of several functions interacting together </i>
 
 Unit test - <i> automated tests that ensure that a section of an application meets its design and behaves as intended <i>
-
 * business logic 
 * calander math
 * complicated logic 
 
 ### Tips 
-we should explict names for the the api end routes (ex '/myRoute')
+We should explict names for the the api end routes (ex '/myRoute')
 
 Develop great documentettion for our APIs, can be automated with postman testing suite 
 
@@ -69,7 +66,7 @@ To see a detail report of test coverage run:
 npm run test-with-coverage
 ```
 
-in root dir, there will be a folder called coverage, look for an index.html and open it with the browser
+in root directory, there will be a folder called coverage, look for an index.html and open it with the browser
 
 This will show detailed view of test coverage 
 
