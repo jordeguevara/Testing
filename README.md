@@ -85,3 +85,4 @@ We aim to get at least <b>80%</b> test coverage for features that you are workin
 
 [Sinon](https://sinonjs.org/releases/latest/)
 
+[Sinon Cheat sheet]
