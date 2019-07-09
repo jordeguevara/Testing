@@ -39,7 +39,11 @@ naming convention - postfix with unit_test ie (businessLogic_unit_test.js)
 Add any custom objects in the fixture directory (test/fixtures)
 
 ### Workflow 
+```js
 
+const jsCode = 'Yes!'
+
+```
 
 ### Types of Testing
 System Integration - end to end test of the architecture  
